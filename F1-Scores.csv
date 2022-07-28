@@ -1,0 +1,5 @@
+Types,n-grams/TfIdf score,Bag of Words score
+Naive Bayes,0.723262051,0.66961154
+Logistic Regression,0.701130005,0.646909098
+SVM,0.679092014,0.610468749
+Random Forest,0.665720333,0.702651511
